@@ -1,0 +1,22 @@
+{
+  "name": "jenkinsdemo",
+  "version": "1.0.0",
+  "description": "JenkinsDemo Project",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mistrykaran91/JenkinsDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mistrykaran91/JenkinsDemo/issues"
+  },
+  "homepage": "https://github.com/mistrykaran91/JenkinsDemo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
