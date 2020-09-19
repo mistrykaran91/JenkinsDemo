@@ -1,7 +1,7 @@
 {
   "name": "jenkinsdemo",
   "version": "1.0.0",
-  "description": "JenkinsDemo Project Test",
+  "description": "JenkinsDemo Project",
   "main": "index.js",
   "scripts": {
     "start":"node index.js"
